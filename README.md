@@ -1,5 +1,7 @@
-# ML-SARShipDetection-Tutorial
-Basic YOLO ship detection tutorial with Google Colab
+# ML SAR Ship Detection Tutorial
+The goal of this tutorial is to show how to train, utilize, and compare the efficacy of two machine learning models for SAR Ship Detection. YOLO models have become mainstays in the digital image processing boom through the mid-2010s to the present; they are quick and easy to implement, but have sometimes lacked in accuracy (though newer models continue to improve on this). DETR transformer models are very robust and precise, but have lacked the speeds YOLO models could achieve - until now, with the development of RT-DETR models that operate in real time.
+
+This tutorial will show you how to prepare, train, optimize, and test both of these models separately, and provide you tools to compare their performance metrics against one another if that interests you.
 
 ## References
 
