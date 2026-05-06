@@ -5,7 +5,7 @@ This tutorial will show you how to prepare, train, optimize, and test both of th
 
 ## References
 
-[1] Zhang, T.; Zhang, X.; Li, J.; Xu, X.; Wang, B.; Zhan, X.; Xu, Y.; Ke, X.; Zeng, T.; Su, H.; et al. SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis. Remote Sens. 2021, 13, 3690. https://doi.org/10.3390/rs13183690
+[1] T. Zhang, X. Zhang, J. Li, X. Xu, B. Wang, X. Zhan, Y. Xu, X. Ke, T. Zeng, H. Su et al., “SAR ship detection dataset (SSDD): Official release and comprehensive data analysis,” Remote Sensing, vol. 13, no. 18, p. 3690, 2021, doi: 10.3390/rs13183690.
 
 [2] G. Jocher and J. Qiu, Ultralytics YOLO26. 2026. [Online]. Available: https://github.com/ultralytics/ultralytics
 
