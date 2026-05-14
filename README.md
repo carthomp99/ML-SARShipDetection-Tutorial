@@ -1,6 +1,6 @@
 # SAR Ship Detection - YOLO and RT-DETR Comparison Tutorial
 ##### __by Carter Thompson__
-##### updated: 13 May 2026
+##### updated: 14 May 2026
 
 ### The goal of this tutorial is to show how to train, utilize, and compare the efficacy of two machine learning models for SAR Ship Detection.
 
